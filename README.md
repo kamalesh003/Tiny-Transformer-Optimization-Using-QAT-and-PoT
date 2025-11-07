@@ -213,7 +213,20 @@ Then:
 
 ---
 
+# Inference on Test-set:
 
+Using 'val_acc' for Validation Acc (Post-Fine-tune)
 
-> A **compressed, hardware-aware Vision Transformer** trained to be both *accurate and efficient*, capable of operating under the same conditions as edge accelerators (limited memory, low precision, sequential streaming).
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/ebc034db-51fc-435c-a5a8-f0bf5ed125b2" />
+
+# Visulization Result:
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/7573d1cf-e9a5-4ca0-a0d9-a5067f9e53b4" />
+
+# About Model:
+
+```bash
+Parameter Count: 413706
+Model Size (bytes): 1654824
+Measured Sparsity: 0.000000
+```
 
