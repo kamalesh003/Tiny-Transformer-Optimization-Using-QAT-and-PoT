@@ -31,6 +31,9 @@ Let’s go step by step.
 * Each **CIFAR-10 image (32×32×3)** is split into small **patches** (say 4×4 or 8×8 pixels each).
 * Each patch is **flattened and projected** into a vector (the embedding).
 
+<img width="1226" height="242" alt="Screenshot 2025-11-07 165748" src="https://github.com/user-attachments/assets/6b0ccd1e-a1f7-424c-bea1-72babf12e4f9" />
+
+
 This projection gives a **sequence of embeddings**, one per patch — like “words” in a sentence for a Transformer.
 
 **Goal:** Turn spatial image information into a sequence the Transformer can process.
