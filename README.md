@@ -223,7 +223,13 @@ Using 'val_acc' for Validation Acc (Post-Fine-tune)
 <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/ebc034db-51fc-435c-a5a8-f0bf5ed125b2" />
 
 # Visulization Result:
+
+Sparsity=0.6 (Pruning fine-tuning for 10 epochs and QAT for 15 epochs in Tiny ViT Optimization.ipynb)
 <img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/7573d1cf-e9a5-4ca0-a0d9-a5067f9e53b4" />
+
+Sparsity=0.4 (Pruning fine-tuning for 30 epochs and QAT for 50 epochs in Tiny ViT Optimization-2.ipynb)
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/2a19dae6-04dc-4664-9e28-2d37fed556b1" />
+
 
 # About Model:
 
