@@ -75,7 +75,7 @@ So conceptually:
 
 ---
 
-## ⚙️ 3. Training Phases — Logic and Reasoning
+##  3. Training Phases — Logic and Reasoning
 
 The notebook you ran includes multiple *training and compression* phases, each motivated by specific trade-offs.
 
